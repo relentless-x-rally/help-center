@@ -413,8 +413,13 @@ p {
   }
 
   .category-list .category {
-    width: 45%;
-    margin: 1%;
+    width: 95%;
+    margin-bottom: 4%;
+    border-radius: 20px;
+  }
+
+  .category-list .category h3 {
+    margin-top: -10%;
   }
 
 
