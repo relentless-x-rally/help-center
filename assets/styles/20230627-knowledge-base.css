@@ -234,22 +234,6 @@ a, a:hover, a:focus {
   font-style: normal;
 }
 
-#fullArticle .ios .platform:before, .tabButton.ios:before {
-    content: url("https://s3.us-east-1.amazonaws.com/tgl.public/support/os-system-apple-3.svg");
-    display: inline;
-    height: 100%;
-    float: left;
-    margin: 0 6px 0px 0;
-}
-
-#fullArticle .android .platform:before, .tabButton.android:before {
-    content: url("https://s3.us-east-1.amazonaws.com/tgl.public/support/android-1.svg");
-    display: inline;
-    height: 100%;
-    float: left;
-    margin: 0 6px 0px 0;
-}
-
 #fullArticle .platform {
   font-size: 17px;
   font-weight: bold;
@@ -430,7 +414,7 @@ p {
 
     background-color: #ffeee6;
 
-    background-image: url("https://s3.amazonaws.com/tgl.public/support/helpscout-docs-background.png");
+    background-image: url("https://relentless-x-rally.github.io/help-center/assets/images/docs-background.png");
   }
 }
 
